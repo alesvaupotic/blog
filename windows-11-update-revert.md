@@ -38,4 +38,4 @@ So, let's remove that one:
 **Success!**
 After a few minutes, I got a prompt to restart the computer and it works as it should now.
 
-
+PS: I disabled automatic Windows Update for a week to wait for the next KB.
