@@ -6,7 +6,7 @@ This morning my notebook started to recycle Windows Explorer after an update. He
 
 https://user-images.githubusercontent.com/1660347/221130885-18595a77-0c61-4995-8678-edbc7590da3d.MOV
 
-I was looking at this for like a minute an then realized I need to revert an update. 
+I was looking at this for like a minute and then realized I need to revert an update. 
 
 # The Solution
 
